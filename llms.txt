@@ -1,0 +1,19 @@
+# Clienz
+
+> Consultoria de atendimento com IA para scaleups B2B: usa o que o cliente diz no suporte para antecipar risco de churn e proteger renovações.
+
+Case exploratório do Akaishi Design Studio (Ciclo 01), apresentado como landing one-page. O cenário de referência é um SaaS B2B de cerca de 60 pessoas, 500 contas e ARR de R$ 18 mi, com churn de receita de 12,5% ao ano (R$ 2,25 mi). Cada 1% de ARR em churn equivale a R$ 180 mil por ano; a meta é de 2 a 4% de churn a menos, ou R$ 360 a 720 mil de ARR preservado por ano. São estimativas de cenário, não promessas.
+
+## Página
+- [Clienz — landing](https://erik-akaishi.github.io/clienz/): proposta, método, simulador de churn, modelo comercial e perguntas frequentes
+
+## Seções
+- [Diferença](https://erik-akaishi.github.io/clienz/#diferenca): o que o mercado de consultoria de IA repete versus o que a Clienz mostra
+- [Antes e depois](https://erik-akaishi.github.io/clienz/#antes-depois): o que muda em um ano
+- [Método](https://erik-akaishi.github.io/clienz/#metodo): do ticket à renovação, em quatro etapas
+- [Simulador](https://erik-akaishi.github.io/clienz/#simulador): quanto vale o churn da sua base
+- [Modelo](https://erik-akaishi.github.io/clienz/#modelo): parte do valor atrelada ao churn
+- [Perguntas](https://erik-akaishi.github.io/clienz/#perguntas): tempo do time, chatbot, IA, resultado, LGPD e medição
+
+## Autoria
+- [Akaishi Design Studio](https://akaishidesign.com.br): estúdio de branding, posicionamento e experiência digital que construiu o case
